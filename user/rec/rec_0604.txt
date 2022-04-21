@@ -1,0 +1,6 @@
+04-29 15:50   0 /1   sysop    19 main     top      23 立加1 pts/1                          STA 0
+04-29 15:50   0 /1   sysop    19 main     ivisit   21 霸IP1 pts/1                          STA 0
+04-29 15:50   0 /1   sysop    19 main     top      21 霸IP1 pts/1                          END 2
+04-29 15:50   0 /1   sysop    19 main     soso     21 霸IP1 pts/1                          STA 0
+04-29 15:50   0 /1   sysop    19 main     top      21 霸IP1 pts/1                          END 1
+04-29 15:51   0 /1   sysop    19 main     top      23 立加2 pts/1                          END 72

@@ -1,0 +1,21 @@
+
+ ### Àü¼Û½Ã ÁÖÀÇ»çÇ×
+
+ 1.ÀçÀü¼Û½Ãµµ³ª Àü¼ÛÁß´ÜÀÌ ¹ß»ýÇÏ¸é,Åë½ÅÇÁ·Î±×·¥ÀÇ Èå¸§Á¦¾î(FLOW
+   CONTROL)¸¦ RTS/CTS·Î ÁöÁ¤ÇÏ°Å³ª XON/XOFF,RTS/CTSµÑ´Ù ÁöÁ¤ÇÏ¿©
+   »ç¿ëÇØ º¸½Ã±â ¹Ù¶ø´Ï´Ù.
+
+ 2.Zmodem»ç¿ë½Ã Àü¼ÛÀÌ Àß ¾ÈµÇ½Ã´Â °æ¿ì´Â(Æ¯È÷ ÀÌ¾ß±â 5.3ÀÎ°æ¿ì)
+   ÀÌ¾ß±â¸¦ ½ÇÇàÇÏ±âÀü baram(È¯°æ¼³Á¤)À» ½ÇÇàÇÏ½Ã°í ´ÙÀ½°ú °°ÀÌ Àü¼Û
+   È¯°æÀ» º¯°æÇÏ¿© ¼³Á¤ÇØ ÁÖ½Ê½Ã¿À.
+
+   ÀÚµ¿ÆÄÀÏ¹Þ±â : ¼±ÅÃ¾ÈÇÔ / º¸³»±â ¹æ¹ý %P d sz -m %F
+   »ç¿ëÀÚÀü¼Û : @dsz.exe   / ¹Þ±â¹æ¹ý %P d rz -r(-rÀº ÀÌ¾î¹Þ±â¿É¼Ç)
+   ¾Æ·¡ÀÇ Àü¼Û¹æ¹ý¿¡¼­ ZMODEMÀ» ¼±ÅÃÇÏ°í <PgUp>À» ´©·éÈÄ <»ç¿ëÀÚ Á¤ÀÇ>
+   ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À. ÀÌ¶§ dsz.exe(dsz.com)´Â ÀÌ¾ß±â¿Í °°Àº µð·ºÅä¸®¿¡
+   ÀÖ¾î¾ß ÇÏ¸ç, ±×·¡ÇÈÈ¯°æÀÇ gsz.exe·Îµµ »ç¿ëÀÌ °¡´ÉÇÕ´Ï´Ù.
+   µÎ ÇÁ·Î±×·¥Àº À¯Æ¼¸®Æ¼ ÀÚ·á½Ç(go upds)¿¡ ÀÖ½À´Ï´Ù.
+
+   ÆÄÀÏ Àü¼Û ÇÁ·ÎÅäÄÝÀ» ¼±ÅÃÇÏ½Ê½Ã¿À.  !±âÅ¸!0
+ 1.[7mZmodem[0;1m  2.Kermit  88.ÀÚµ¿µî·Ï !±¤¿ª!4 0.Ãë¼Ò
+ ¹øÈ£¼±ÅÃ(ENTER:Zmodem) >> !ÁßÁö!

@@ -1,0 +1,18 @@
+                         게시판/자료실 전용 명령 안내
+  ┌───────────┬───────────┬────────────┐
+  │mode,dm   화면줄수변경│ pmemo,pm 개인메모장  │ us,do     접속현황보기 │
+  │up,w      자료등록    │ down,dn  자료다운    │ upr       자료 재 등록 │
+  │re        작성자 답장 │ rn       작성자[답변]│ rt        작성자 [참고]│
+  │rr        작성자[참고]│ ra       작성자[추가]│ ?,c       명령어안내   │
+  │cal,tm    현재시간달력│ z        화면재표시  │ me,to,m   메세지보내기 │
+  │go        바로가기명령│ wmail,wm 메일쓰기발송│ wmrg      감사메일발송 │
+  │wmra      환영메일발송│ wmrh     축하메일발송│ rmail,rm  메일읽기     │
+  │user      사용자영역  │ rank,rk  순위보기    │ rc        재접속       │
+  │a,aa      앞   메뉴로 │ p,pp     상위 메뉴로 │ guest     회원가입메뉴 │
+  │chat      대화방      │ tele     공중전화    │ rmail     편지읽기     │
+  │sysmail1  시삽수신편지│ sysmail2 부시삽수신  │ mailbook  메일 주소록  │
+  │ddmode    삭제자료보임│ csysop   동호회시삽  │ bsysop    게시판담당자 │
+  │rsysop    운영진전용  │ ssysop   시삽진전용  │ sysop     시삽전용메뉴 │
+  └───────────┴───────────┴────────────┘
+
+

@@ -1,0 +1,2 @@
+09-27 00:22   0 /3   sysop    19 main     top      23 立加1 pts/3                          STA 0
+09-27 00:22   0 /3   sysop    19 main     top      23 立加2 pts/3                          END 13
